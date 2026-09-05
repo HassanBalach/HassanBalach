@@ -9,7 +9,7 @@
 
 ### 🌐 Live Projects
 * 🚀 **[BizQR](https://www.getbizqr.com/):** Business QR & digital profile platform.
-* 🎨 **[Visual Lib](https://visiual-lib.vercel.app/):** Web visual components & UI library showcase.
+* 🎨 **[Visual Lib](https://visiual-lib.vercel.app/):** Web visual components & UI library showcase For Linkedin Creators.
 
 ---
 
