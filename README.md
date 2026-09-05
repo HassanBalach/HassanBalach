@@ -3,7 +3,7 @@
 
 - 🚀 **Featured DevOps Repository:** [Cloud Infrastructure Journey](https://github.com/HassanBalach/cloud-infrastructure-journey) — A hands-on, CLI-first repository documenting my transition into AWS, Linux, and Cloud DevOps.
 - 🛠️ **Current Tech Focus:** Linux (Bash/CLI) | AWS (EC2) | SSH Security | Git
-- 💻 **Product Development:** Co-Founder @ MSchool
+
 
 ---
 
